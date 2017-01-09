@@ -7,6 +7,7 @@ chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cris
 
 Dependencies
 ============
+*pytho3.52
 * numpy
 * scipy 
 * six
@@ -17,7 +18,7 @@ Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 Usage
 ===========
-
+Firstly, create a directory named woking_dir in the project.
 To train the bot, edit the `seq2seq.ini` file so that mode is set to train like so
 
 `mode = train`
