@@ -36,7 +36,7 @@ Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 Usage
 ===========
-Firstly, create a directory named woking_dir in the project.
+Firstly, create an empty directory named woking_dir in the project.
 To train the bot, edit the `seq2seq.ini` file so that mode is set to train like so
 
 `mode = train`
