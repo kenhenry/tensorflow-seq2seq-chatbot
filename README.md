@@ -7,11 +7,11 @@ chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cris
 
 Dependencies
 ============
-*pytho3.52
+* pytho3.52
 * numpy
 * scipy 
 * six
-* tensorflow (https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html)
+* tensorflow12 (https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html)
 
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
