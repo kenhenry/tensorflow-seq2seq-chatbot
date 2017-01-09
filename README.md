@@ -6,21 +6,21 @@ chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cris
 
 Example
 ===========
-> where are you?
+>> where are you?
 I ' m here .
-> how is going?
+>>how is going?
 Fine .
-> Can you think of it?
+>> Can you think of it?
 I don ' t think so .
-> so why do you love her
+>> so why do you love her
 I don ' t think so .
-> who is your father
+>> who is your father
 I ' m not sure .
-> what is time now?
+>> what is time now?
 I don ' t know .
-> what the hell
+>> what the hell
 What ?
-> What are you doing now?
+>> What are you doing now?
 I ' m going to get out .
 
 Dependencies
