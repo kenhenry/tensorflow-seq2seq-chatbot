@@ -6,20 +6,24 @@ chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cris
 
 Example
 ===========
->> where are you?\n
+>> where are you?
 I ' m here .
->>how is going?\n
+
+>>how is going?
 Fine .
+
 >> Can you think of it?
 I don ' t think so .
->> so why do you love her
-I don ' t think so .
+
 >> who is your father
 I ' m not sure .
+
 >> what is time now?
 I don ' t know .
+
 >> what the hell
 What ?
+
 >> What are you doing now?
 I ' m going to get out .
 
