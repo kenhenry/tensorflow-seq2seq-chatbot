@@ -1,9 +1,27 @@
 #Tensorflow Seq2Seq Chatbot
 Overview
 ============
-This is the full code for 'How to Make an Amazing Tensorflow Chatbot Easily' by @Sirajology on [Youtube](https://youtu.be/SJDEOWLHYVo). In this demo code, we implement Tensorflows [Sequence to Sequence](https://www.tensorflow.org/versions/r0.12/tutorials/seq2seq/index.html) model to train a
-chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). After training for a few hours, the bot is able to hold a fun conversation.
+In this demo code, we implement Tensorflows [Sequence to Sequence](https://www.tensorflow.org/versions/r0.12/tutorials/seq2seq/index.html) model to train a
+chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).The dataset has been in the project. After training for a few hours, the bot is able to hold a fun conversation.
 
+Example
+===========
+> where are you?
+I ' m here .
+> how is going?
+Fine .
+> Can you think of it?
+I don ' t think so .
+> so why do you love her
+I don ' t think so .
+> who is your father
+I ' m not sure .
+> what is time now?
+I don ' t know .
+> what the hell
+What ?
+> What are you doing now?
+I ' m going to get out .
 
 Dependencies
 ============
