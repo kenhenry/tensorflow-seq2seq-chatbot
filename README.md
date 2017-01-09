@@ -6,10 +6,9 @@ chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cris
 
 Example
 ===========
->> where are you?
-
+>> where are you?\n
 I ' m here .
->>how is going?
+>>how is going?\n
 Fine .
 >> Can you think of it?
 I don ' t think so .
